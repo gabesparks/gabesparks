@@ -1,16 +1,77 @@
-## Hi there 👋
+<!-- GitHub Profile README -->
 
-<!--
-**gabesparks/gabesparks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
 
-Here are some ideas to get you started:
+# Hey, I'm Gabe 👋
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Talent Operations @ Exodus · Automating the hiring process one script at a time
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR_LINKEDIN_HERE)
+[![Exodus](https://img.shields.io/badge/Exodus-Non--Custodial%20Crypto%20Wallet-8B5CF6?style=for-the-badge)](https://www.exodus.com)
+
+</div>
+
+---
+
+### 👨‍💼 Who am I?
+
+I'm a Talent Ops professional working at the intersection of **recruiting and automation**. By day I'm finding great people for Exodus — one of the world's leading non-custodial crypto wallets. By night (and sometimes Friday evenings 🌙) I'm building tools that make recruiting teams faster, smarter, and less buried in manual work.
+
+I'm not a traditional developer — I'm a recruiter who got tired of doing things manually and decided to do something about it. Most of what you'll find here is practical, real-world automation built to solve actual recruiting problems.
+
+---
+
+### 🛠️ What I'm building
+
+| Project | Description | Stack |
+|---|---|---|
+| 🤖 **TalentOps Automation** | Recruiting automation scripts for Greenhouse + Slack | Google Apps Script · Greenhouse API · Slack |
+| 📋 **Weekly Roles Update** | Auto-posts open roles to Slack every Friday | JavaScript · Webhooks |
+| 🔍 **CV Screener** *(coming soon)* | AI-powered candidate ranking and scoring | Claude AI · Greenhouse API |
+| 🗑️ **GDPR Deletion Bot** *(coming soon)* | Automated candidate data deletion + compliance logging | Google Apps Script |
+
+---
+
+### 🧠 Currently learning
+
+- **JavaScript** — building real automations is the best way to learn
+- **Greenhouse Harvest API** — going deep on ATS automation
+- **Claude AI / Anthropic API** — using AI to actually change how recruiting works
+- **GitHub** — turns out recruiters can have profiles here too 😄
+
+---
+
+### ⚙️ Tools & tech I work with
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Google Apps Script](https://img.shields.io/badge/Google%20Apps%20Script-4285F4?style=flat-square&logo=google&logoColor=white)
+![Greenhouse](https://img.shields.io/badge/Greenhouse-24B47E?style=flat-square&logo=greenhouse&logoColor=white)
+![Slack](https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=slack&logoColor=white)
+![Claude AI](https://img.shields.io/badge/Claude%20AI-D97757?style=flat-square&logo=anthropic&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white)
+
+---
+
+### 💬 A few things about me
+
+- 🪙 I work in crypto but I promise I won't try to sell you anything
+- 🤖 I believe the best recruiters in 5 years will be the ones who can build their own tools
+- 📍 Building automation so my team can focus on the human side of hiring
+- 🚀 Every script here started as "I wonder if I can automate this..."
+
+---
+
+### 📫 Want to connect?
+
+If you're in Talent Ops and curious about automation, recruiting tech, or just want to swap ideas — reach out! Always happy to chat with people who are thinking about the future of recruiting.
+
+[![LinkedIn](https://img.shields.io/badge/Let's%20connect-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR_LINKEDIN_HERE)
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME_HERE&color=8B5CF6&style=flat-square&label=Profile+views" alt="Profile views" />
+  
+  *"Automate the predictable so you can focus on the exceptional."*
+</div>
