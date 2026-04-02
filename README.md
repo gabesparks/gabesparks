@@ -4,10 +4,9 @@
 
 # Hey, I'm Gabe 👋
 
-### Talent Operations @ Exodus · Automating the hiring process one script at a time
+### Talent Operations Professional · Automating the hiring process one script at a time
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR_LINKEDIN_HERE)
-[![Exodus](https://img.shields.io/badge/Exodus-Non--Custodial%20Crypto%20Wallet-8B5CF6?style=for-the-badge)](https://www.exodus.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sparks-gabriel/)
 
 </div>
 
@@ -15,7 +14,7 @@
 
 ### 👨‍💼 Who am I?
 
-I'm a Talent Ops professional working at the intersection of **recruiting and automation**. By day I'm finding great people for Exodus — one of the world's leading non-custodial crypto wallets. By night (and sometimes Friday evenings 🌙) I'm building tools that make recruiting teams faster, smarter, and less buried in manual work.
+I'm a Talent Ops professional working at the intersection of **recruiting and automation**. I spend my time finding great people, building the systems that make hiring faster and smarter, and figuring out how AI can do the repetitive stuff so recruiters can focus on the human side of the job.
 
 I'm not a traditional developer — I'm a recruiter who got tired of doing things manually and decided to do something about it. Most of what you'll find here is practical, real-world automation built to solve actual recruiting problems.
 
@@ -55,9 +54,9 @@ I'm not a traditional developer — I'm a recruiter who got tired of doing thing
 
 ### 💬 A few things about me
 
-- 🪙 I work in crypto but I promise I won't try to sell you anything
 - 🤖 I believe the best recruiters in 5 years will be the ones who can build their own tools
-- 📍 Building automation so my team can focus on the human side of hiring
+- 🔍 Passionate about the candidate experience and making hiring feel human
+- 📍 Building automation so recruiting teams can focus on what actually matters
 - 🚀 Every script here started as "I wonder if I can automate this..."
 
 ---
@@ -66,12 +65,12 @@ I'm not a traditional developer — I'm a recruiter who got tired of doing thing
 
 If you're in Talent Ops and curious about automation, recruiting tech, or just want to swap ideas — reach out! Always happy to chat with people who are thinking about the future of recruiting.
 
-[![LinkedIn](https://img.shields.io/badge/Let's%20connect-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR_LINKEDIN_HERE)
+[![LinkedIn](https://img.shields.io/badge/Let's%20connect-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sparks-gabriel/)
 
 ---
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME_HERE&color=8B5CF6&style=flat-square&label=Profile+views" alt="Profile views" />
-  
+
   *"Automate the predictable so you can focus on the exceptional."*
 </div>
