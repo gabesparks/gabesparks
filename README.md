@@ -32,9 +32,9 @@ I'm not a developer — I'm a recruiter who got tired of doing things manually a
 
 ### 🧠 Currently learning
 
-- **JavaScript** — building real automations is the best way to learn
-- **Claude AI / Anthropic API** — using AI to actually change how recruiting works
-- **GitHub** — turns out recruiters can have profiles here too 😄
+- **JavaScript** - building real automations is the best way to learn
+- **Claude AI / Anthropic API** - using AI to actually change how recruiting works
+- **GitHub** - turns out recruiters can have profiles here too 😄
 
 ---
 
