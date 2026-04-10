@@ -68,7 +68,7 @@ If you're in Talent and curious about automation, recruiting, or just want to sw
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME_HERE&color=8B5CF6&style=flat-square&label=Profile+views" alt="Profile views" />
+  
 
-  *"Automate the predictable so you can focus on the exceptional."*
+  *"Whatever the mind can conceive and believe, it can achieve." — Napoleon Hill*
 </div>
