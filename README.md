@@ -70,5 +70,5 @@ If you're in Talent and curious about automation, recruiting, or just want to sw
 <div align="center">
   
 
-  *"Whatever the mind can conceive and believe, it can achieve." — Napoleon Hill*
+  *"Whatever the mind can conceive and believe, it can achieve." - Napoleon Hill*
 </div>
