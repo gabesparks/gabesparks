@@ -4,7 +4,7 @@
 
 # Hey, I'm Gabe 👋
 
-### Talent Operations Professional · Automating the hiring process one script at a time
+### Talent Professional · Automating the hiring process one script at a time
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sparks-gabriel/)
 
@@ -14,9 +14,9 @@
 
 ### 👨‍💼 Who am I?
 
-I'm a Talent Ops professional working at the intersection of **recruiting and automation**. I spend my time finding great people, building the systems that make hiring faster and smarter, and figuring out how AI can do the repetitive stuff so recruiters can focus on the human side of the job.
+I'm a Senior Talent Partner working at the intersection of **recruiting and automation**. I spend my time finding great people, building the systems that make hiring faster and smarter, and figuring out how AI can do the repetitive stuff so I can focus on the human side of the job.
 
-I'm not a traditional developer — I'm a recruiter who got tired of doing things manually and decided to do something about it. Most of what you'll find here is practical, real-world automation built to solve actual recruiting problems.
+I'm not a developer — I'm a recruiter who got tired of doing things manually and decided to do something about it. Most of what you'll find here is practical, real-world automation built to solve actual recruiting problems.
 
 ---
 
@@ -27,14 +27,12 @@ I'm not a traditional developer — I'm a recruiter who got tired of doing thing
 | 🤖 **TalentOps Automation** | Recruiting automation scripts for Greenhouse + Slack | Google Apps Script · Greenhouse API · Slack |
 | 📋 **Weekly Roles Update** | Auto-posts open roles to Slack every Friday | JavaScript · Webhooks |
 | 🔍 **CV Screener** *(coming soon)* | AI-powered candidate ranking and scoring | Claude AI · Greenhouse API |
-| 🗑️ **GDPR Deletion Bot** *(coming soon)* | Automated candidate data deletion + compliance logging | Google Apps Script |
 
 ---
 
 ### 🧠 Currently learning
 
 - **JavaScript** — building real automations is the best way to learn
-- **Greenhouse Harvest API** — going deep on ATS automation
 - **Claude AI / Anthropic API** — using AI to actually change how recruiting works
 - **GitHub** — turns out recruiters can have profiles here too 😄
 
@@ -63,7 +61,7 @@ I'm not a traditional developer — I'm a recruiter who got tired of doing thing
 
 ### 📫 Want to connect?
 
-If you're in Talent Ops and curious about automation, recruiting tech, or just want to swap ideas — reach out! Always happy to chat with people who are thinking about the future of recruiting.
+If you're in Talent and curious about automation, recruiting, or just want to swap ideas — reach out! Always happy to chat with people who are thinking about the future of recruiting.
 
 [![LinkedIn](https://img.shields.io/badge/Let's%20connect-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sparks-gabriel/)
 
