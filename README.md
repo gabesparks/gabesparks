@@ -61,7 +61,7 @@ I'm not a developer - I'm a recruiter who got tired of doing things manually and
 
 ### 📫 Want to connect?
 
-If you're in Talent and curious about automation, recruiting, or just want to swap ideas — reach out! Always happy to chat with people who are thinking about the future of recruiting.
+If you're in Talent and curious about automation, recruiting, or just want to swap ideas - reach out! Always happy to chat with people who are thinking about the future of recruiting.
 
 [![LinkedIn](https://img.shields.io/badge/Let's%20connect-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sparks-gabriel/)
 
