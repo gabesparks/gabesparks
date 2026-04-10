@@ -16,7 +16,7 @@
 
 I'm a Senior Talent Partner working at the intersection of **recruiting and automation**. I spend my time finding great people, building the systems that make hiring faster and smarter, and figuring out how AI can do the repetitive stuff so I can focus on the human side of the job.
 
-I'm not a developer — I'm a recruiter who got tired of doing things manually and decided to do something about it. Most of what you'll find here is practical, real-world automation built to solve actual recruiting problems.
+I'm not a developer - I'm a recruiter who got tired of doing things manually and decided to do something about it. Most of what you'll find here is practical, real-world automation built to solve actual recruiting problems.
 
 ---
 
