@@ -14,7 +14,7 @@
 
 I'm a Senior Talent Partner working at the intersection of **recruiting and automation**. I spend my time finding great people, building the systems that make hiring faster and smarter, and figuring out how AI can do the repetitive stuff so I can focus on the human side of the job.
 
-I'm not a developer — I'm a recruiter who got tired of doing things manually and decided to do something about it. Most of what you'll find here is practical, real-world tooling built to solve actual recruiting problems.
+I'm not a developer. I'm a recruiter who got tired of doing things manually and decided to do something about it. Most of what you'll find here is practical, real-world tooling built to solve actual recruiting problems.
 
 ---
 
@@ -32,10 +32,10 @@ I'm not a developer — I'm a recruiter who got tired of doing things manually a
 
 ### 🧠 What I've been working with
 
-- **Node.js and the GitHub API** — built four CLI tools from scratch with zero external dependencies
-- **Claude AI / Anthropic API** — using AI to actually change how recruiting works
-- **JavaScript** — building real things is still the best way to learn
-- **GitHub** — turns out recruiters can have pretty interesting profiles here 😄
+- **Node.js and the GitHub API** - built four CLI tools from scratch with zero external dependencies
+- **Claude AI / Anthropic API** - using AI to actually change how recruiting works
+- **JavaScript** - building real things is still the best way to learn
+- **GitHub** - turns out recruiters can have pretty interesting profiles here 😄
 
 ---
 
@@ -63,7 +63,7 @@ I'm not a developer — I'm a recruiter who got tired of doing things manually a
 
 ### 📫 Want to connect?
 
-If you're in Talent and curious about automation, people tech, or just want to swap ideas — reach out. Always happy to chat with people who are thinking about the future of recruiting.
+If you're in Talent and curious about automation, people tech, or just want to swap ideas, reach out. Always happy to chat with people who are thinking about the future of recruiting.
 
 [![LinkedIn](https://img.shields.io/badge/Let's%20connect-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sparks-gabriel/)
 
@@ -71,6 +71,6 @@ If you're in Talent and curious about automation, people tech, or just want to s
 
 <div align="center">
 
-*"Whatever the mind can conceive and believe, it can achieve." — Napoleon Hill*
+*"Whatever the mind can conceive and believe, it can achieve." - Napoleon Hill*
 
 </div>
