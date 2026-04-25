@@ -54,10 +54,10 @@ I'm not a developer. I'm a recruiter who got tired of doing things manually and 
 
 ### 💬 A few things about me
 
-- 🤖 I believe the best recruiters in 5 years will be the ones who can build their own tools
-- 🔍 Passionate about the candidate experience and making hiring feel human
-- 📍 Building automation so recruiting teams can focus on what actually matters
-- 🚀 Every script here started as "I wonder if I can automate this..."
+🤖 I believe the best recruiters in 5 years will be the ones who can build their own tools
+🔍 Passionate about the candidate experience and making hiring feel human
+📍 Building automation so recruiting teams can focus on what actually matters
+🚀 Every script here started as "I wonder if I can automate this..."
 
 ---
 
